@@ -4,7 +4,7 @@ I'm a data professional with a passion for solving real-world problems using the
 
 ## 🤖 Machine Learning Enthusiast
 
-Machine learning has captured my imagination, and I find great joy in developing intelligent systems that learn from data, make predictions, and provide actionable insights. Frameworks like TensorFlow and PyTorch have become my go-to tools in this exciting journey. You can check out my Kaggle profile [here](https://www.kaggle.com/your-kaggle-profile).
+Machine learning has captured my imagination, and I find great joy in developing intelligent systems that learn from data, make predictions, and provide actionable insights. Frameworks like TensorFlow and PyTorch have become my go-to tools in this exciting journey. You can check out my Kaggle profile [here](https://www.kaggle.com/kingakocol).
 
 ## 💻 Software Engineer at Heart
 
@@ -16,6 +16,6 @@ On my blog, I share the lessons, projects, and insights I've gained along the wa
 
 ## 🌐 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Personal Website](https://www.your-personal-website.com)
-- [Kaggle](https://www.kaggle.com/your-kaggle-profile)
+- [LinkedIn](https://www.linkedin.com/in/kinga-koco%C5%82-419ba921a/)
+- [Personal Website](https://kinga-portfolio.vercel.app)
+- [Kaggle](https://www.kaggle.com/kingakocol)
