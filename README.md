@@ -13,9 +13,3 @@ As a software engineer at heart, I love building clean, modular, and maintainabl
 ## 📝 Sharing Knowledge Through My Blog
 
 On my blog, I share the lessons, projects, and insights I've gained along the way. From data engineering tips to machine learning tutorials and software development musings, I aim to create content that sparks curiosity and helps fellow data enthusiasts grow and succeed.
-
-## 🌐 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/kinga-koco%C5%82-419ba921a/)
-- [Personal Website](https://kinga-portfolio.vercel.app)
-- [Kaggle](https://www.kaggle.com/kingakocol)
